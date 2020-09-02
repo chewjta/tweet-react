@@ -30,7 +30,7 @@ module.exports.tweets = [
     "user": {
       "id": 169686021,
       "id_str": "169686021",
-      "name": "ye",
+      "name": "KANYE WEST",
       "screen_name": "kanyewest",
       "location": "",
       "description": "",
@@ -199,7 +199,7 @@ module.exports.tweets = [
     "user": {
       "id": 169686021,
       "id_str": "169686021",
-      "name": "ye",
+      "name": "KANYE WEST",
       "screen_name": "kanyewest",
       "location": "",
       "description": "",
@@ -300,7 +300,7 @@ module.exports.tweets = [
     "user": {
       "id": 169686021,
       "id_str": "169686021",
-      "name": "ye",
+      "name": "KANYE WEST",
       "screen_name": "kanyewest",
       "location": "",
       "description": "",
@@ -401,7 +401,7 @@ module.exports.tweets = [
     "user": {
       "id": 169686021,
       "id_str": "169686021",
-      "name": "ye",
+      "name": "KANYE WEST",
       "screen_name": "kanyewest",
       "location": "",
       "description": "",
@@ -570,7 +570,7 @@ module.exports.tweets = [
     "user": {
       "id": 169686021,
       "id_str": "169686021",
-      "name": "ye",
+      "name": "KANYE WEST",
       "screen_name": "kanyewest",
       "location": "",
       "description": "",
@@ -749,7 +749,7 @@ module.exports.tweets = [
     "user": {
       "id": 169686021,
       "id_str": "169686021",
-      "name": "ye",
+      "name": "KANYE WEST",
       "screen_name": "kanyewest",
       "location": "",
       "description": "",
@@ -918,7 +918,7 @@ module.exports.tweets = [
     "user": {
       "id": 169686021,
       "id_str": "169686021",
-      "name": "ye",
+      "name": "KANYE WEST",
       "screen_name": "kanyewest",
       "location": "",
       "description": "",
@@ -1087,7 +1087,7 @@ module.exports.tweets = [
     "user": {
       "id": 169686021,
       "id_str": "169686021",
-      "name": "ye",
+      "name": "KANYE WEST",
       "screen_name": "kanyewest",
       "location": "",
       "description": "",
@@ -1256,7 +1256,7 @@ module.exports.tweets = [
     "user": {
       "id": 169686021,
       "id_str": "169686021",
-      "name": "ye",
+      "name": "KANYE WEST",
       "screen_name": "kanyewest",
       "location": "",
       "description": "",
@@ -1425,7 +1425,7 @@ module.exports.tweets = [
     "user": {
       "id": 169686021,
       "id_str": "169686021",
-      "name": "ye",
+      "name": "KANYE WEST",
       "screen_name": "kanyewest",
       "location": "",
       "description": "",
@@ -1594,7 +1594,7 @@ module.exports.tweets = [
     "user": {
       "id": 169686021,
       "id_str": "169686021",
-      "name": "ye",
+      "name": "KANYE WEST",
       "screen_name": "kanyewest",
       "location": "",
       "description": "",
@@ -1763,7 +1763,7 @@ module.exports.tweets = [
     "user": {
       "id": 169686021,
       "id_str": "169686021",
-      "name": "ye",
+      "name": "KANYE WEST",
       "screen_name": "kanyewest",
       "location": "",
       "description": "",
@@ -1864,7 +1864,7 @@ module.exports.tweets = [
     "user": {
       "id": 169686021,
       "id_str": "169686021",
-      "name": "ye",
+      "name": "KANYE WEST",
       "screen_name": "kanyewest",
       "location": "",
       "description": "",
@@ -2033,7 +2033,7 @@ module.exports.tweets = [
     "user": {
       "id": 169686021,
       "id_str": "169686021",
-      "name": "ye",
+      "name": "KANYE WEST",
       "screen_name": "kanyewest",
       "location": "",
       "description": "",
@@ -2134,7 +2134,7 @@ module.exports.tweets = [
     "user": {
       "id": 169686021,
       "id_str": "169686021",
-      "name": "ye",
+      "name": "KANYE WEST",
       "screen_name": "kanyewest",
       "location": "",
       "description": "",
@@ -2303,7 +2303,7 @@ module.exports.tweets = [
     "user": {
       "id": 169686021,
       "id_str": "169686021",
-      "name": "ye",
+      "name": "KANYE WEST",
       "screen_name": "kanyewest",
       "location": "",
       "description": "",
@@ -2472,7 +2472,7 @@ module.exports.tweets = [
     "user": {
       "id": 169686021,
       "id_str": "169686021",
-      "name": "ye",
+      "name": "KANYE WEST",
       "screen_name": "kanyewest",
       "location": "",
       "description": "",
@@ -2641,7 +2641,7 @@ module.exports.tweets = [
     "user": {
       "id": 169686021,
       "id_str": "169686021",
-      "name": "ye",
+      "name": "KANYE WEST",
       "screen_name": "kanyewest",
       "location": "",
       "description": "",
@@ -2810,7 +2810,7 @@ module.exports.tweets = [
     "user": {
       "id": 169686021,
       "id_str": "169686021",
-      "name": "ye",
+      "name": "KANYE WEST",
       "screen_name": "kanyewest",
       "location": "",
       "description": "",
@@ -2979,7 +2979,7 @@ module.exports.tweets = [
     "user": {
       "id": 169686021,
       "id_str": "169686021",
-      "name": "ye",
+      "name": "KANYE WEST",
       "screen_name": "kanyewest",
       "location": "",
       "description": "",

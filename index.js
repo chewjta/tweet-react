@@ -1,11 +1,12 @@
 const express = require('express');
+const {resolve} = require('path');
 
 process.env.NODE_ENV = process.env.NODE_ENV || 'development';
 
 process.env.PORT = process.env.PORT || 3000;
 
 const app = express();
-
+const clientBuildPath = resolve(__dirname, 'public')
 /*
  * =======================================================================
  * ================ REACT config                     =====================
@@ -13,7 +14,7 @@ const app = express();
  */
 
 app.use('/', express.static('public'));
-
+app.use('/', express.static(clientBuildPath));
 /*
  * =======================================================================
  * ============== normal express routes go here   ========================
@@ -31,16 +32,7 @@ app.get('/banana', (request, response)=>{
  */
 
 app.get('/react', (req, res) => {
-  const myHtml = `
-    <html>
-      <body>
-        <h1>Wow, react</h1>
-        <div id="app"></div>
-        <script type="text/javascript" src="/main.js"></script>
-      </body>
-    </html>
-  `;
-  res.send( myHtml );
+  res.sendFile(resolve(clientBuildPath, 'index.html'))
 });
 
 /*
